@@ -12,4 +12,4 @@ int main(void) {
     return 0;
 }
 
-// scanf과 printf 함수 사용
+// scanf과 printf 사용
